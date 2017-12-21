@@ -7,3 +7,7 @@ Many languages can compile to CMS.
 CMS can be run on CVM or be compiled to other languages (like llvm-code, cpu assembler ...).
 
 This project includes the documents for CMS.
+
+# Contents
+
+[中文文档](./zh_CN/README.md)
